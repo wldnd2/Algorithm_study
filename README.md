@@ -4,3 +4,4 @@
 
 - 11650 좌표 정렬하기 [소스코드](https://github.com/wldnd2/Algorithm_study/blob/main/%EC%86%8C%EC%8A%A4%EC%BD%94%EB%93%9C/11650.py) : 정렬
 - 10816 숫자 카드 2 [소스코드](https://github.com/wldnd2/Algorithm_study/blob/main/%EC%86%8C%EC%8A%A4%EC%BD%94%EB%93%9C/10816.py) : 정렬, 이분탐색, 해시맵
+- 1018 체스판 다시 칠하기 [소스코드](https://github.com/wldnd2/Algorithm_study/blob/main/%EC%86%8C%EC%8A%A4%EC%BD%94%EB%93%9C/1018.py) : 브루트포스
