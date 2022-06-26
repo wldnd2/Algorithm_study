@@ -7,3 +7,4 @@
 - 1018 체스판 다시 칠하기 [소스코드](https://github.com/wldnd2/Algorithm_study/blob/main/%EC%86%8C%EC%8A%A4%EC%BD%94%EB%93%9C/1018.py) : 브루트포스
 - 1978 소수 찾기 [소스코드](https://github.com/wldnd2/Algorithm_study/blob/main/%EC%86%8C%EC%8A%A4%EC%BD%94%EB%93%9C/1978.py) : 수학, 정수론, 소수 판정
 - 10866 덱 [소스코드](https://github.com/wldnd2/Algorithm_study/blob/main/%EC%86%8C%EC%8A%A4%EC%BD%94%EB%93%9C/10866.py) : 자료구조, 덱
+- 9012 괄호 [소스코드](https://github.com/wldnd2/Algorithm_study/blob/main/%EC%86%8C%EC%8A%A4%EC%BD%94%EB%93%9C/9012.py) : 자료구조, 문자열, 스택
